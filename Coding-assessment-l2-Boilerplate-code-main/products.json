@@ -1,0 +1,116 @@
+{
+    "categories": [
+      {
+        "category_name": "Men",
+        "category_products": [
+          {
+            "title": "Mens Kurta",
+            "vendor": "Manyvar",
+            "price": 1199.00,
+            "compare_at_price": 2399.00,
+            "badge": "Wedding Special",
+            "image": "https://via.placeholder.com/200x300"
+          },
+          {
+            "title": "RCB Tshirt",
+            "vendor": "Puma",
+            "price": 2199.00,
+            "compare_at_price": 4399.00,
+            "badge": "On offer",
+            "image": "https://via.placeholder.com/200x300"
+          },
+          {
+            "title": "Green Charm",
+            "vendor": "Myntra",
+            "price": 1399.00,
+            "compare_at_price": 2799.00,
+            "badge": "On offer",
+            "image": "https://via.placeholder.com/200x300"
+          },
+          {
+            "title": "Mens Tshirt",
+            "vendor": "Myntra",
+            "price": 599.00,
+            "compare_at_price": 1199.00,
+            "badge": "New season",
+            "image": "https://via.placeholder.com/200x300"
+          }
+        ]
+      },
+      {
+        "category_name": "Women",
+        "category_products": [
+          {
+            "title": "Women's Kurta",
+            "vendor": "FabIndia",
+            "price": 1299.00,
+            "compare_at_price": 2599.00,
+            "badge": "New Arrival",
+            "image": "https://via.placeholder.com/200x300"
+          },
+          {
+            "title": "Women's Top",
+            "vendor": "Zara",
+            "price": 999.00,
+            "compare_at_price": 1999.00,
+            "badge": "Limited Edition",
+            "image": "https://via.placeholder.com/200x300"
+          },
+          {
+            "title": "Women's Dress",
+            "vendor": "H&M",
+            "price": 1899.00,
+            "compare_at_price": 3799.00,
+            "badge": "Exclusive",
+            "image": "https://via.placeholder.com/200x300"
+          },
+          {
+            "title": "Women's Jeans",
+            "vendor": "Levis",
+            "price": 1499.00,
+            "compare_at_price": 2999.00,
+            "badge": "Best Seller",
+            "image": "https://via.placeholder.com/200x300"
+          }
+        ]
+      },
+      {
+        "category_name": "Kids",
+        "category_products": [
+          {
+            "title": "Kids T-shirt",
+            "vendor": "Gap",
+            "price": 699.00,
+            "compare_at_price": 1399.00,
+            "badge": "New Arrival",
+            "image": "https://via.placeholder.com/200x300"
+          },
+          {
+            "title": "Kids Shorts",
+            "vendor": "Nike",
+            "price": 799.00,
+            "compare_at_price": 1599.00,
+            "badge": "Best Seller",
+            "image": "https://via.placeholder.com/200x300"
+          },
+          {
+            "title": "Kids Dress",
+            "vendor": "Carter's",
+            "price": 999.00,
+            "compare_at_price": 1999.00,
+            "badge": "Exclusive",
+            "image": "https://via.placeholder.com/200x300"
+          },
+          {
+            "title": "Kids Jacket",
+            "vendor": "Adidas",
+            "price": 1499.00,
+            "compare_at_price": 2999.00,
+            "badge": "Limited Edition",
+            "image": "https://via.placeholder.com/200x300"
+          }
+        ]
+      }
+    ]
+  }
+  
